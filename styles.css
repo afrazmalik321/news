@@ -105,6 +105,11 @@ margin-top: 2px;
 	color: white;
 	margin-right: 2px;
 }
+@media only screen and (max-width: 1000px) {
+    .narrow {
+     display: none;
+    }
+}
 .grid-wrapper{
 	margin-left: 100px;
 	margin-right: 100px;
